@@ -28,4 +28,4 @@ class Interactor {
     //rollback() { }
 }
 
-module.exports = Interactor;
+module.exports.Interactor = Interactor;
