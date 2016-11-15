@@ -1,0 +1,24 @@
+{
+  "name": "interactorjs",
+  "version": "0.1.0",
+  "description": "Organize logic in to atomic modules — Edit",
+  "main": "interctor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omidmogharian/interactorjs.git"
+  },
+  "keywords": [
+    "interactor",
+    "js",
+    "node"
+  ],
+  "author": "Omid Mogharian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omidmogharian/interactorjs/issues"
+  },
+  "homepage": "https://github.com/omidmogharian/interactorjs#readme"
+}
